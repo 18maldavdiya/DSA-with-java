@@ -12,6 +12,7 @@ public class Swap {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-         swap(a,b);
+        swap(a,b);
+        System.out.println(a);
     }
 }
